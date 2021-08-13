@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">MY TODO APP</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="todo_list_view">Todo list!</string>
+    <string name="textViewTodoDetail">TextViewTodoDetail</string>
+    <string name="todo_complete">Is it Complete?</string>
+    <string name="detail">Detail</string>
+    <string name="buttonTodoDetailText">detail</string>
+    <string name="request_code_mismatch">requestCode in intent does not match the parent requestCode</string>
+    <string name="back_button_pressed">Back button pressed</string>
+
+    <string-array name="todo">
+        <item>Wake up</item>
+        <item>Eat breakfast</item>
+        <item>Go for a jog</item>
+        <item>Code and learn new things</item>
+        <item>Go to sleep</item>
+    </string-array>
+    <string-array name="todo_detail">
+        <item>Waking up is generally not a pleasant activity, but it must be done once a day! </item>
+        <item>To start the day, you must break the fast you had during sleep and eat to fuel yourself for the day! </item>
+        <item>Maintains your health and give your body a healthy dose of oxygen! </item>
+        <item>Helps boost creativity and gives a great exercise for your brain. </item>
+        <item>6 hours is a MUST; drink hot choco - gives a great nights sleep. </item>
+    </string-array>
+
+</resources>
